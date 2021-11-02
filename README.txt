@@ -4,6 +4,6 @@ To reproduct my submission without retraining, do the following steps:
    need evironment with python=3.7 and tensorflow=2.1
 
 2. Download official Image, pretrained models and other needed files from the following website
-   https://drive.google.com/drive/folders/1q7e0iLmpyVRSTCloZkqIneNfGWcdq0_3?usp=sharing
+   https://1drv.ms/u/s!Alkxo3kULa62oP8tg5_2ppO1k5KU5Q?e=m2SvQh
 
-4. Run prediction.py
+3. Run prediction.py
